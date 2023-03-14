@@ -1,0 +1,44 @@
+[0311/164815.087:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0311/164818.882:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0311/165015.229:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0311/165127.985:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0311/165127.985:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0311/165127.985:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0311/165127.985:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0311/165127.985:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0311/165127.985:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0311/165127.985:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0311/165127.985:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0311/165127.986:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0311/165127.986:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0311/165127.986:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0311/165127.986:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0311/165127.987:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0311/165442.499:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0311/165442.500:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0311/165456.614:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0311/165456.614:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0311/165501.097:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/zzz/Documents/GitHub/EternalAscension/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:/Users/zzz/Documents/GitHub/EternalAscension/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0311/165501.101:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/zzz/Documents/GitHub/EternalAscension/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:/Users/zzz/Documents/GitHub/EternalAscension/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
